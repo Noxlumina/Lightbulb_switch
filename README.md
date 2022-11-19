@@ -1,2 +1,2 @@
 # Lightbulb_switch
-exercice ssur l'interrupteur
+exercice sur l'interrupteur
